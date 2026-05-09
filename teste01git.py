@@ -1,0 +1,1 @@
+print("Testando git no vscode com python no Ubuntu")
